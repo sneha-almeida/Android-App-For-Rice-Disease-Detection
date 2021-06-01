@@ -9,4 +9,24 @@ The system performs the following functions:
 
 Some screenshots of the Implementated system are:
 
+![](https://github.com/sneha-almeida/Android-App-For-Rice-Disease-Detection/blob/main/Screenshot_20210602-004949.jpg)
+
+
+![](https://github.com/sneha-almeida/Android-App-For-Rice-Disease-Detection/blob/main/Screenshot_20210602-011056.jpg)
+
+
+![](https://github.com/sneha-almeida/Android-App-For-Rice-Disease-Detection/blob/main/Screenshot_20210602-011103.jpg)
+
+
+![](https://github.com/sneha-almeida/Android-App-For-Rice-Disease-Detection/blob/main/Screenshot_20210602-011109.jpg)
+
+
+![](https://github.com/sneha-almeida/Android-App-For-Rice-Disease-Detection/blob/main/ss-2.PNG)
+
+
+![](https://github.com/sneha-almeida/Android-App-For-Rice-Disease-Detection/blob/main/email_ss.PNG)
+
+
+
+
 
